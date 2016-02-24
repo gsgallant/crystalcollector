@@ -10,7 +10,6 @@ var losses=0;
 var winaudio = new Audio('assets/audio/cheer.mp3');//winner audio
 var loseaudio = new Audio('assets/audio/aww.mp3');//loser audio
 
-
 var crystal = {
 	red : {
 		strength :200,
