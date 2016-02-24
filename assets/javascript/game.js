@@ -127,9 +127,4 @@ $(document).ready(function(){
 
 startgame();
 
-
-
-
-
-
 });//closes the $JQuery
