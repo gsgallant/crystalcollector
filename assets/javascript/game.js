@@ -92,11 +92,8 @@ $(document).ready(function(){
 							losses++;
 							$('#announce').text("You Lose!");
 							loseaudio.play();
-						}else{
-						// alert(playerScore);
-						console.log("playerScore: "+playerScore);
-						console.log("randomnumber: " + randomnum);
-						}
+						};
+						
 						if (endOfGame){
 						$('#wins').html("Wins: " + wins);
 						$('#losses').html("Losses: "+losses);
