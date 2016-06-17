@@ -1,7 +1,7 @@
 #
 #Crystals Collector Game
 
-#App can be run at:
+#App can be seen at:
 - http://crystalcollectorgame.herokuapp.com/
 
 #Screenshots:
